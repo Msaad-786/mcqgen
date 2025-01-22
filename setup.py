@@ -1,0 +1,1 @@
+#installing local package in my current Virtualenv
