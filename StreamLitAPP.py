@@ -12,7 +12,7 @@ import streamlit as st
 logging.info("Streamlit App Started")
 
 with open("response.json",'r') as file:
-    response_json = json.loads(file)
+    response_json = json.load(file)
 
 st.title("MCQ's creater application with Langchains 🐦")
 

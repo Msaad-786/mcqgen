@@ -1,0 +1,4 @@
+[2025-01-30 17:12:20,268] 287 langchain_community.chat_models.openai - WARNING - WARNING! temperatue is not default parameter.
+                    temperatue was transferred to model_kwargs.
+                    Please confirm that temperatue is what you intended.
+[2025-01-30 17:12:21,193] 12 root - INFO - Streamlit App Started
